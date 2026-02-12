@@ -1,0 +1,11 @@
+{
+  "google_drive": {
+    "enabled": false,
+    "folder_id": ""
+  },
+  "knowledge_base": {
+    "enabled": false,
+    "endpoint": "https://your-kb-endpoint.example.com/highlights",
+    "api_key_env": "KB_API_KEY"
+  }
+}
